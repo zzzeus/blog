@@ -5,4 +5,5 @@ tags:
 - android
 ---
 
-
+* create a service (started,bounded lifecycle startService(),stopService() )
+* recevice a broadcast or resig

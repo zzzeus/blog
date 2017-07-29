@@ -12,6 +12,8 @@ tags:
 * play m3u8 by Exoplayer
 * check installed app
 * check the permission
+* create a Popwindow
+* SharedPreferences
 
 #### Floating window in Android
 {% codeblock %}

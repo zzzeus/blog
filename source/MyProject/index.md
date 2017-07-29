@@ -3,9 +3,9 @@ title: MyProject
 date: 2017-04-07 23:16:18
 ---
 
-# My android project
+## My android project
 
-## 功能列表
+### 功能列表
 
 1、查看更新电影
 
@@ -28,3 +28,7 @@ date: 2017-04-07 23:16:18
 
 http://www.51voa.com/VOA_Videos/  慢速英语视频
 http://www.51voa.com/Bilingual_News_1.html 双语
+
+
+## JapanLearning
+* 
