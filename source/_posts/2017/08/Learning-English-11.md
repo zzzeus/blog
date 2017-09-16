@@ -8,10 +8,10 @@ tags: English
 word | example one |example two |others
 --|--|--
 fatigue|She continued to have severe stomach cramps,aches,fatigue,and depression.|Athletes were often unaware they were fatiguing key muscles.|-
-modernize/modernise|We need 20 years to modernise our economy and all we ask for is external stability while we do so.|plans to modernize the refinery<br>an attemptto restructure and modernize British society<br>The country badly needs loans to rebuild its infrastructure and modernize its economy.|-
-conherent|He has failed to work out a coherent strategy for modernising the service.|-|incoherent
+modernize<br><br>modernise|We need 20 years to modernise our economy and all we ask for is external stability while we do so.|plans to modernize the refinery<br><br>an attemptto restructure and modernize British society<br><br>The country badly needs loans to rebuild its infrastructure and modernize its economy.|-
+coherent|He has failed to work out a coherent strategy for modernising the service.|-|incoherent
 distort|The painter may exaggerate or distort shapes.|-|-
-lever|They are using the hostages as a lever to gain concessions.|She levered open the door with a crowbar.<br>The taps has a lever to control the mix of hot and cold water.<br>Push the tiny lever on the lock.<br>Insert the fork about 6 in. from the door and simultaneously lever it backwrads.|leverage,fulcrum,valve
+lever|They are using the hostages as a lever to gain concessions.|She levered open the door with a crowbar.<br><br>The taps has a lever to control the mix of hot and cold water.<br><br>Push the tiny lever on the lock.<br><br>Insert the fork about 6 in. from the door and simultaneously lever it backwrads.|leverage,fulcrum,valve
 calendar |The Christain calendar was originally based on the Julian calendar of the Romans.|-|-
 defiance|People too to the streets in defiance of the curfew.|-|disregard,disobediance
 abortion|This abortion of a bridge inspired only disgust.|-|-
