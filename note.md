@@ -1,5 +1,8 @@
-c# 
-AngleSharp 处理html
 
+```cmd
+hexo new [layout] <title>
+
+hexo -g deploy
+```
 
 

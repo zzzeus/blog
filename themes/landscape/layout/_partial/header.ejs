@@ -10,7 +10,6 @@
           <a href="<%- url_for() %>" id="subtitle"><%= theme.subtitle %></a>
         </h2>
       <% } %>
-      
     </div>
     <div id="header-inner" class="inner">
       <nav id="main-nav">
@@ -18,14 +17,10 @@
         <% for (var i in theme.menu){ %>
           <a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
         <% } %>
-        <% var mylist="mylist" %>
-        <% var myproj="MyProject" %>
-          <a class="main-nav-link" href="<%- url_for(mylist) %>">MyList</a>
-          <a class="main-nav-link" href="<%- url_for(myproj) %>">My Projects</a>
       </nav>
       <nav id="sub-nav">
         <% if (theme.rss){ %>
-          <a id="nav-rss-link" class="nav-icon" href="<%- theme.rss %>" title="<%= __('rss_feed') %>"></a>
+          <a id="nav-rss-link" class="nav-icon" href="<%- url_for(theme.rss) %>" title="<%= __('rss_feed') %>"></a>
         <% } %>
         <a id="nav-search-btn" class="nav-icon" title="<%= __('search') %>"></a>
       </nav>
